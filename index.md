@@ -7,3 +7,4 @@ Feature branch content.
 >>>>>>> feature/branch1
 Conflicting content.
 New feature changes.
+Rebase changes.
