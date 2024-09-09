@@ -6,3 +6,4 @@ Main branch content.
 Feature branch content.
 >>>>>>> feature/branch1
 Conflicting content.
+New feature changes.

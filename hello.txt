@@ -1,1 +1,1 @@
-Conflict in hello.txt
+New content in hello.txt

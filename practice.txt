@@ -5,3 +5,4 @@ Added main content to practice file.
 Added feature content to practice file.
 >>>>>>> feature/branch1
 Conflicting changes in practice file.
+New content in practice file.
