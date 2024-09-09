@@ -1,2 +1,7 @@
 Sample content for practice file.
+<<<<<<< HEAD
 Added main content to practice file.
+=======
+Added feature content to practice file.
+>>>>>>> feature/branch1
+Conflicting changes in practice file.
