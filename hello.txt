@@ -1,2 +1,1 @@
-Hello World!
-File for practice with Git.
+Main branch update.
